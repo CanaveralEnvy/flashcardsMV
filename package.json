@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.12",
+    "inquirer": "^8.2.6",
+    "inquirer-search-list": "^1.2.6",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
